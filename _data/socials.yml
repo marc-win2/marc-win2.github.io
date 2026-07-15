@@ -1,0 +1,29 @@
+curriculum_vitae:
+  logo: "ai ai-cv"
+  url: "/assets/pdf/CV_winstel_industry_2pager.pdf"
+  title: "Download CV"
+
+email_contact:
+  logo: "fa-solid fa-envelope"
+  url: "mailto:marcwinstel@pm.me"
+  title: "Email"
+
+github_profile:
+  logo: "fa-brands fa-github"
+  url: "https://github.com/marc-win2"
+  title: "GitHub"
+
+inspire_profile:
+  logo: "ai ai-inspire"
+  url: "https://inspirehep.net/authors/1852424"
+  title: "INSPIRE-HEP"
+
+orcid_profile:
+  logo: "ai ai-orcid"
+  url: "https://orcid.org/0000-0003-3470-9926"
+  title: "ORCID"
+
+google_scholar_profile:
+  logo: "ai ai-google-scholar"
+  url: "https://scholar.google.com/citations?user=_TUwR90AAAAJ"
+  title: "Google Scholar"

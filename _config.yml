@@ -9,6 +9,7 @@ description: Personal website of Dr. Marc Winstel, researcher in CBDC, distribut
 keywords: CBDC, digital money, financial-market infrastructure, distributed systems, scientific computing
 url: https://marc-win2.github.io
 baseurl:
+footer_text: 'Website template based on <a href="https://github.com/alshedivat/al-folio">al-folio</a>.'
 
 # -----------------------------------------------------------------------------
 # Theme

@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Research publications in digital money, distributed systems, and theoretical and computational physics.
+description: Research publications in digital money, CBDC systems, and theoretical and computational physics.
 nav: true
 nav_order: 2
 ---

@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-My work spans digital money and distributed systems as well as theoretical and computational physics. Publications are listed in reverse chronological order.
+My work spans digital money and CBDC systems as well as theoretical and computational physics. Publications are listed in reverse chronological order.
 
 {% include bib_search.liquid %}
 

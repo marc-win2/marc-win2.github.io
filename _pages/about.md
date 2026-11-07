@@ -6,7 +6,7 @@ subtitle: CBDC · digital money · financial-market infrastructure · scientific
 
 profile:
   align: right
-  image: winstel.jpeg
+  image: winstel-2026.jpeg
   image_circular: false
   more_info: >
     <p>Researcher at Deutsche Bundesbank</p>
